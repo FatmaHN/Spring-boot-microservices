@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jst.ws.consumption:webserviceutils:1.0.102.v200609220223">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jst/ws/consumption/webserviceutils/1.0.102.v200609220223/webserviceutils-1.0.102.v200609220223.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jst/ws/consumption/webserviceutils/1.0.102.v200609220223/webserviceutils-1.0.102.v200609220223-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jst/ws/consumption/webserviceutils/1.0.102.v200609220223/webserviceutils-1.0.102.v200609220223-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
